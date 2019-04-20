@@ -1,2 +1,2 @@
-# tigon
-Quantum Based Random Number Generator
+# Tigon
+Quantum Based Random Number Generator Research Project
